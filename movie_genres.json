@@ -1,0 +1,425 @@
+[
+    {
+        "key": "CRIME",
+        "patterns": [
+            "crime",
+            "krimi"
+        ],
+        "movieDbId": 80,
+        "localizations": {
+            "en": "Crime",
+            "sk": "Krimi",
+            "cz": "Krimi"
+        }
+    },
+    {
+        "key": "DRAMA",
+        "patterns": [
+            "drama"
+        ],
+        "movieDbId": 18,
+        "localizations": {
+            "en": "Drama",
+            "sk": "Dráma",
+            "cz": "Drama"
+        }
+    },
+    {
+        "key": "MYSTERY",
+        "patterns": [
+            "mystery",
+            "mysteriozny",
+            "mysteriozni"
+        ],
+        "movieDbId": 9648,
+        "localizations": {
+            "en": "Mystery",
+            "sk": "Mystériózny",
+            "cz": "mysteriozní"
+        }
+    },
+    {
+        "key": "ADVENTURE",
+        "patterns": [
+            "adventure",
+            "adventura",
+            "dobrodruzny"
+        ],
+        "movieDbId": 12,
+        "localizations": {
+            "en": "Adventure",
+            "sk": "Dobrodružný",
+            "cz": "Dobrodružný"
+        }
+    },
+    {
+        "key": "THRILLER",
+        "patterns": [
+            "thriller"
+        ],
+        "movieDbId": 53,
+        "localizations": {
+            "en": "Thriller",
+            "sk": "Thriller",
+            "cz": "Thriller"
+        }
+    },
+    {
+        "key": "FAMILY",
+        "patterns": [
+            "family",
+            "rodinny"
+        ],
+        "movieDbId": 10751,
+        "localizations": {
+            "en": "Family",
+            "sk": "Rodinný",
+            "cz": "Rodinný"
+        }
+    },
+    {
+        "key": "FANTASY",
+        "patterns": [
+            "fantasy"
+        ],
+        "movieDbId": 14,
+        "localizations": {
+            "en": "Fantasy",
+            "sk": "Fantasy",
+            "cz": "Fantasy"
+        }
+    },
+    {
+        "key": "SCI_FI",
+        "patterns": [
+            "sci-fi",
+            "sci_fi",
+            "sci fi",
+            "science fiction"
+        ],
+        "movieDbId": 878,
+        "localizations": {
+            "en": "Sci-Fi",
+            "sk": "Sci-Fi",
+            "cz": "Vědeckofantastický"
+        }
+    },
+    {
+        "key": "COMEDY",
+        "patterns": [
+            "comedy",
+            "komedia",
+            "komedie"
+        ],
+        "movieDbId": 35,
+        "localizations": {
+            "sk": "Komédia",
+            "cz": "Komedie",
+            "en": "Comedy"
+        }
+    },
+    {
+        "key": "WESTERN",
+        "patterns": [
+            "western"
+        ],
+        "movieDbId": 37,
+        "localizations": {
+            "en": "Western",
+            "sk": "Western",
+            "cz": "Western"
+        }
+    },
+    {
+        "key": "HORROR",
+        "patterns": [
+            "horror",
+            "horor"
+        ],
+        "movieDbId": 27,
+        "localizations": {
+            "sk": "Horror",
+            "en": "Horror",
+            "cz": "Horror"
+        }
+    },
+    {
+        "key": "ROMANCE",
+        "patterns": [
+            "romance",
+            "romanticky"
+        ],
+        "movieDbId": 10749,
+        "localizations": {
+            "en": "Romance",
+            "sk": "Romantický",
+            "cz": "Romantický"
+        }
+    },
+    {
+        "key": "ANIMATION",
+        "patterns": [
+            "animation",
+            "animovany"
+        ],
+        "movieDbId": 16,
+        "localizations": {
+            "en": "Animation",
+            "sk": "Animovaný",
+            "cz": "Animovaný"
+        }
+    },
+    {
+        "key": "WAR",
+        "patterns": [
+            "war",
+            "valecny",
+            "vojnovy"
+        ],
+        "movieDbId": 10752,
+        "localizations": {
+            "en": "War",
+            "sk": "Vojnový",
+            "cz": "Válečný"
+        }
+    },
+    {
+        "key": "HISTORY",
+        "patterns": [
+            "history",
+            "historicky"
+        ],
+        "movieDbId": 36,
+        "localizations": {
+            "en": "History",
+            "sk": "Historický",
+            "cz": "Historický"
+        }
+    },
+    {
+        "key": "BIOGRAPHY",
+        "patterns": [
+            "biography",
+            "bibliografia",
+            "zivotopisny"
+        ],
+        "movieDbId": 99,
+        "localizations": {
+            "en": "Biography",
+            "sk": "Životopisný",
+            "cz": "Dokumentární"
+        }
+    },
+    {
+        "key": "SPORT",
+        "patterns": [
+            "sport"
+        ],
+        "movieDbId": -1,
+        "localizations": {
+            "en": "Sport",
+            "sk": "Športový",
+            "cz": "Športový"
+        }
+    },
+    {
+        "key": "MUSICAL",
+        "patterns": [
+            "musical",
+            "muzikal"
+        ],
+        "movieDbId": 10402,
+        "localizations": {
+            "en": "Musical",
+            "sk": "Muzikál",
+            "cz": "Muzikál"
+        }
+    },
+    {
+        "key": "MUSIC",
+        "patterns": [
+            "music",
+            "hudobn",
+            "hudebn"
+        ],
+        "movieDbId": 10402,
+        "localizations": {
+            "en": "Music",
+            "sk": "Hudobný",
+            "cz": "Hudební"
+        }
+    },
+    {
+        "key": "DOCUMENTARY",
+        "patterns": [
+            "documentary",
+            "dokumentarny",
+            "dokumentarni"
+        ],
+        "movieDbId": 99,
+        "localizations": {
+            "en": "Documentary",
+            "sk": "Dokumentárny",
+            "cz": "Dokumentárni"
+        }
+    },
+    {
+        "key": "ACTION",
+        "patterns": [
+            "action",
+            "akcni",
+            "akcny"
+        ],
+        "movieDbId": 28,
+        "localizations": {
+            "en": "Action",
+            "sk": "Akčný",
+            "cz": "Akční"
+        }
+    },
+    {
+        "key": "CATASTROPHIC",
+        "patterns": [
+            "catastrophic",
+            "katastroficky"
+        ],
+        "movieDbId": -1,
+        "localizations": {
+            "en": "Catastrophic",
+            "sk": "Katastrofický",
+            "cz": "Katastrofický"
+        }
+    },
+    {
+        "key": "PSYCHOLOGIC",
+        "patterns": [
+            "psychologic",
+            "psychologicky"
+        ],
+        "movieDbId": -1,
+        "localizations": {
+            "en": "Psychologic",
+            "sk": "Psychologický",
+            "cz": "Psychologický"
+        }
+    },
+    {
+        "key": "EROTIC",
+        "patterns": [
+            "erotic",
+            "eroticky"
+        ],
+        "movieDbId": -1,
+        "localizations": {
+            "en": "Erotic",
+            "sk": "Erotický",
+            "cz": "Erotický"
+        }
+    },
+    {
+        "key": "FANTASTIC",
+        "patterns": [
+            "pohadk",
+            "povidk",
+            "fantastic",
+            "rozpravk"
+        ],
+        "movieDbId": -1,
+        "localizations": {
+            "en": "Fantastic",
+            "sk": "Rozprávkový",
+            "cz": "Pohádkový"
+        }
+    },
+    {
+        "key": "ROAD_MOVIE",
+        "patterns": [
+            "road movie"
+        ],
+        "movieDbId": -1,
+        "localizations": {
+            "en": "Road movie",
+            "sk": "Road movie",
+            "cz": "Road movie"
+        }
+    },
+    {
+        "key": "TALK_SHOW",
+        "patterns": [
+            "talk show",
+            "talk-show"
+        ],
+        "movieDbId": 10767,
+        "localizations": {
+            "en": "Talk-show",
+            "sk": "Talk-show",
+            "cz": "Talk-show"
+        }
+    },
+    {
+        "key": "REALITY_SHOW",
+        "patterns": [
+            "reality-tv",
+            "reality tv",
+            "reality-show",
+            "reality show"
+        ],
+        "movieDbId": 10764,
+        "localizations": {
+            "en": "Reality show",
+            "sk": "Reality show",
+            "cz": "Reality show"
+        }
+    },
+    {
+        "key": "DANCING",
+        "patterns": [
+            "danc",
+            "tanecn"
+        ],
+        "movieDbId": -1,
+        "localizations": {
+            "en": "Dancing",
+            "sk": "Tanečný",
+            "cz": "Taneční"
+        }
+    },
+    {
+        "key": "IMAX",
+        "patterns": [
+            "imax"
+        ],
+        "movieDbId": -1,
+        "localizations": {
+            "en": "Imax",
+            "sk": "Imax",
+            "cz": "Imax"
+        }
+    },
+    {
+        "key": "SOAP_OPERA",
+        "patterns": [
+            "soap opera",
+            "telenovela"
+        ],
+        "movieDbId": 10766,
+        "localizations": {
+            "en": "Soap opera",
+            "sk": "Telenovela",
+            "cz": "Telenovela"
+        }
+    },
+    {
+        "key": "SHORT",
+        "patterns": [
+            "short",
+            "kratkometrazni"
+        ],
+        "movieDbId": -1,
+        "localizations": {
+            "en": "Short",
+            "sk": "Kratkometrážny",
+            "cz": "Krátkometrážní"
+        }
+    }
+]
