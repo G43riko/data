@@ -1,5 +1,6 @@
 {
-    "MEAT": [
+    "$schema": "https://g43riko.github.io/schemas/food.schema.json",
+    "meat": [
         "kuraci",
         "hovadz",
         "bravcov",
@@ -26,7 +27,7 @@
         "ragu",
         "prosciutto"
     ],
-    "CHEESE": [
+    "cheese": [
         "syr",
         "ostiep",
         "eidam",
@@ -39,7 +40,7 @@
         "parmezan",
         "mozzarel"
     ],
-    "SEA_FOOD": [
+    "sea_food": [
         "losos",
         "ryb",
         "stuka",
@@ -57,7 +58,7 @@
         "kapor",
         "kaviar"
     ],
-    "VEGETABLE": [
+    "vegetable": [
         "zelenin",
         "brokolic",
         "spenat",
@@ -71,13 +72,13 @@
         "salat",
         "kapust"
     ],
-    "PIZZA": [
+    "pizza": [
         "pizza",
         "hawai",
         "prosciutto",
         "napoletana"
     ],
-    "PASTA": [
+    "pasta": [
         "cestoviny",
         "granadier",
         "cestovin",
@@ -85,7 +86,7 @@
         "tortelliny",
         "spaget"
     ],
-    "SWEET": [
+    "sweet": [
         "dukatove",
         "ryzovy",
         "sisky",
@@ -94,7 +95,7 @@
         "bucht",
         "zemlovka"
     ],
-    "ASIA": [
+    "asia": [
         "sladkokysl",
         "kungpao",
         "thajsk",
@@ -105,7 +106,7 @@
         "tempura",
         "kung-pao"
     ],
-    "ARAB": [
+    "arab": [
         "kebab",
         "gyros",
         "pita",
