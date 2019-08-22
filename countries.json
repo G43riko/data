@@ -1,0 +1,2748 @@
+[
+    {
+        "currency": "AFN",
+        "capitalCity": "Kabul",
+        "diallingCode": "93",
+        "name": "Afghanistan",
+        "key": "AF",
+        "patterns": [
+            "af",
+            "afghanistan"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Mariehamn",
+        "diallingCode": "+358-18",
+        "name": "Aland Islands",
+        "key": "AX",
+        "patterns": [
+            "ax",
+            "aland islands"
+        ]
+    },
+    {
+        "currency": "ALL",
+        "capitalCity": "Tirana",
+        "diallingCode": "355",
+        "name": "Albania",
+        "key": "AL",
+        "patterns": [
+            "al",
+            "albania"
+        ]
+    },
+    {
+        "currency": "DZD",
+        "capitalCity": "Algiers",
+        "diallingCode": "213",
+        "name": "Algeria",
+        "key": "DZ",
+        "patterns": [
+            "dz",
+            "algeria"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Pago Pago",
+        "diallingCode": "+1-684",
+        "name": "American Samoa",
+        "key": "AS",
+        "patterns": [
+            "as",
+            "american samoa"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Andorra la Vella",
+        "diallingCode": "376",
+        "name": "Andorra",
+        "key": "AD",
+        "patterns": [
+            "ad",
+            "andorra"
+        ]
+    },
+    {
+        "currency": "AOA",
+        "capitalCity": "Luanda",
+        "diallingCode": "244",
+        "name": "Angola",
+        "key": "AO",
+        "patterns": [
+            "ao",
+            "angola"
+        ]
+    },
+    {
+        "currency": "XCD",
+        "capitalCity": "The Valley",
+        "diallingCode": "+1-264",
+        "name": "Anguilla",
+        "key": "AI",
+        "patterns": [
+            "ai",
+            "anguilla"
+        ]
+    },
+    {
+        "currency": "",
+        "capitalCity": "",
+        "diallingCode": "",
+        "name": "Antarctica",
+        "key": "AQ",
+        "patterns": [
+            "aq",
+            "antarctica"
+        ]
+    },
+    {
+        "currency": "XCD",
+        "capitalCity": "St. John's",
+        "diallingCode": "+1-268",
+        "name": "Antigua and Barbuda",
+        "key": "AG",
+        "patterns": [
+            "ag",
+            "antigua and barbuda"
+        ]
+    },
+    {
+        "currency": "ARS",
+        "capitalCity": "Buenos Aires",
+        "diallingCode": "54",
+        "name": "Argentina",
+        "key": "AR",
+        "patterns": [
+            "ar",
+            "argentina"
+        ]
+    },
+    {
+        "currency": "AMD",
+        "capitalCity": "Yerevan",
+        "diallingCode": "374",
+        "name": "Armenia",
+        "key": "AM",
+        "patterns": [
+            "am",
+            "armenia"
+        ]
+    },
+    {
+        "currency": "AWG",
+        "capitalCity": "Oranjestad",
+        "diallingCode": "297",
+        "name": "Aruba",
+        "key": "AW",
+        "patterns": [
+            "aw",
+            "aruba"
+        ]
+    },
+    {
+        "currency": "AUD",
+        "capitalCity": "Canberra",
+        "diallingCode": "61",
+        "name": "Australia",
+        "key": "AU",
+        "patterns": [
+            "au",
+            "australia"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Vienna",
+        "diallingCode": "43",
+        "name": "Austria",
+        "key": "AT",
+        "patterns": [
+            "at",
+            "austria"
+        ]
+    },
+    {
+        "currency": "AZN",
+        "capitalCity": "Baku",
+        "diallingCode": "994",
+        "name": "Azerbaijan",
+        "key": "AZ",
+        "patterns": [
+            "az",
+            "azerbaijan"
+        ]
+    },
+    {
+        "currency": "BSD",
+        "capitalCity": "Nassau",
+        "diallingCode": "+1-242",
+        "name": "Bahamas",
+        "key": "BS",
+        "patterns": [
+            "bs",
+            "bahamas"
+        ]
+    },
+    {
+        "currency": "BHD",
+        "capitalCity": "Manama",
+        "diallingCode": "973",
+        "name": "Bahrain",
+        "key": "BH",
+        "patterns": [
+            "bh",
+            "bahrain"
+        ]
+    },
+    {
+        "currency": "BDT",
+        "capitalCity": "Dhaka",
+        "diallingCode": "880",
+        "name": "Bangladesh",
+        "key": "BD",
+        "patterns": [
+            "bd",
+            "bangladesh"
+        ]
+    },
+    {
+        "currency": "BBD",
+        "capitalCity": "Bridgetown",
+        "diallingCode": "+1-246",
+        "name": "Barbados",
+        "key": "BB",
+        "patterns": [
+            "bb",
+            "barbados"
+        ]
+    },
+    {
+        "currency": "BYR",
+        "capitalCity": "Minsk",
+        "diallingCode": "375",
+        "name": "Belarus",
+        "key": "BY",
+        "patterns": [
+            "by",
+            "belarus"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Brussels",
+        "diallingCode": "32",
+        "name": "Belgium",
+        "key": "BE",
+        "patterns": [
+            "be",
+            "belgium"
+        ]
+    },
+    {
+        "currency": "BZD",
+        "capitalCity": "Belmopan",
+        "diallingCode": "501",
+        "name": "Belize",
+        "key": "BZ",
+        "patterns": [
+            "bz",
+            "belize"
+        ]
+    },
+    {
+        "currency": "XOF",
+        "capitalCity": "Porto-Novo",
+        "diallingCode": "229",
+        "name": "Benin",
+        "key": "BJ",
+        "patterns": [
+            "bj",
+            "benin"
+        ]
+    },
+    {
+        "currency": "BMD",
+        "capitalCity": "Hamilton",
+        "diallingCode": "+1-441",
+        "name": "Bermuda",
+        "key": "BM",
+        "patterns": [
+            "bm",
+            "bermuda"
+        ]
+    },
+    {
+        "currency": "BTN",
+        "capitalCity": "Thimphu",
+        "diallingCode": "975",
+        "name": "Bhutan",
+        "key": "BT",
+        "patterns": [
+            "bt",
+            "bhutan"
+        ]
+    },
+    {
+        "currency": "BOB",
+        "capitalCity": "Sucre",
+        "diallingCode": "591",
+        "name": "Bolivia",
+        "key": "BO",
+        "patterns": [
+            "bo",
+            "bolivia, plurinational state of"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "",
+        "diallingCode": "599",
+        "name": "Bonaire, Saint Eustatius and Saba ",
+        "key": "BQ",
+        "patterns": [
+            "bq",
+            "bonaire, sint eustatius and saba"
+        ]
+    },
+    {
+        "currency": "BAM",
+        "capitalCity": "Sarajevo",
+        "diallingCode": "387",
+        "name": "Bosnia and Herzegovina",
+        "key": "BA",
+        "patterns": [
+            "ba",
+            "bosnia and herzegovina"
+        ]
+    },
+    {
+        "currency": "BWP",
+        "capitalCity": "Gaborone",
+        "diallingCode": "267",
+        "name": "Botswana",
+        "key": "BW",
+        "patterns": [
+            "bw",
+            "botswana"
+        ]
+    },
+    {
+        "currency": "NOK",
+        "capitalCity": "",
+        "diallingCode": "",
+        "name": "Bouvet Island",
+        "key": "BV",
+        "patterns": [
+            "bv",
+            "bouvet island"
+        ]
+    },
+    {
+        "currency": "BRL",
+        "capitalCity": "Brasilia",
+        "diallingCode": "55",
+        "name": "Brazil",
+        "key": "BR",
+        "patterns": [
+            "br",
+            "brazil"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Diego Garcia",
+        "diallingCode": "246",
+        "name": "British Indian Ocean Territory",
+        "key": "IO",
+        "patterns": [
+            "io",
+            "british indian ocean territory"
+        ]
+    },
+    {
+        "currency": "BND",
+        "capitalCity": "Bandar Seri Begawan",
+        "diallingCode": "673",
+        "name": "Brunei",
+        "key": "BN",
+        "patterns": [
+            "bn",
+            "brunei darussalam"
+        ]
+    },
+    {
+        "currency": "BGN",
+        "capitalCity": "Sofia",
+        "diallingCode": "359",
+        "name": "Bulgaria",
+        "key": "BG",
+        "patterns": [
+            "bg",
+            "bulgaria"
+        ]
+    },
+    {
+        "currency": "XOF",
+        "capitalCity": "Ouagadougou",
+        "diallingCode": "226",
+        "name": "Burkina Faso",
+        "key": "BF",
+        "patterns": [
+            "bf",
+            "burkina faso"
+        ]
+    },
+    {
+        "currency": "BIF",
+        "capitalCity": "Bujumbura",
+        "diallingCode": "257",
+        "name": "Burundi",
+        "key": "BI",
+        "patterns": [
+            "bi",
+            "burundi"
+        ]
+    },
+    {
+        "currency": "KHR",
+        "capitalCity": "Phnom Penh",
+        "diallingCode": "855",
+        "name": "Cambodia",
+        "key": "KH",
+        "patterns": [
+            "kh",
+            "cambodia"
+        ]
+    },
+    {
+        "currency": "XAF",
+        "capitalCity": "Yaounde",
+        "diallingCode": "237",
+        "name": "Cameroon",
+        "key": "CM",
+        "patterns": [
+            "cm",
+            "cameroon"
+        ]
+    },
+    {
+        "currency": "CAD",
+        "capitalCity": "Ottawa",
+        "diallingCode": "1",
+        "name": "Canada",
+        "key": "CA",
+        "patterns": [
+            "ca",
+            "canada"
+        ]
+    },
+    {
+        "currency": "CVE",
+        "capitalCity": "Praia",
+        "diallingCode": "238",
+        "name": "Cape Verde",
+        "key": "CV",
+        "patterns": [
+            "cv",
+            "cape verde"
+        ]
+    },
+    {
+        "currency": "KYD",
+        "capitalCity": "George Town",
+        "diallingCode": "+1-345",
+        "name": "Cayman Islands",
+        "key": "KY",
+        "patterns": [
+            "ky",
+            "cayman islands"
+        ]
+    },
+    {
+        "currency": "XAF",
+        "capitalCity": "Bangui",
+        "diallingCode": "236",
+        "name": "Central African Republic",
+        "key": "CF",
+        "patterns": [
+            "cf",
+            "central african republic"
+        ]
+    },
+    {
+        "currency": "XAF",
+        "capitalCity": "N'Djamena",
+        "diallingCode": "235",
+        "name": "Chad",
+        "key": "TD",
+        "patterns": [
+            "td",
+            "chad"
+        ]
+    },
+    {
+        "currency": "CLP",
+        "capitalCity": "Santiago",
+        "diallingCode": "56",
+        "name": "Chile",
+        "key": "CL",
+        "patterns": [
+            "cl",
+            "chile"
+        ]
+    },
+    {
+        "currency": "CNY",
+        "capitalCity": "Beijing",
+        "diallingCode": "86",
+        "name": "China",
+        "key": "CN",
+        "patterns": [
+            "cn",
+            "china"
+        ]
+    },
+    {
+        "currency": "AUD",
+        "capitalCity": "Flying Fish Cove",
+        "diallingCode": "61",
+        "name": "Christmas Island",
+        "key": "CX",
+        "patterns": [
+            "cx",
+            "christmas island"
+        ]
+    },
+    {
+        "currency": "AUD",
+        "capitalCity": "West Island",
+        "diallingCode": "61",
+        "name": "Cocos Islands",
+        "key": "CC",
+        "patterns": [
+            "cc",
+            "cocos (keeling) islands"
+        ]
+    },
+    {
+        "currency": "COP",
+        "capitalCity": "Bogota",
+        "diallingCode": "57",
+        "name": "Colombia",
+        "key": "CO",
+        "patterns": [
+            "co",
+            "colombia"
+        ]
+    },
+    {
+        "currency": "KMF",
+        "capitalCity": "Moroni",
+        "diallingCode": "269",
+        "name": "Comoros",
+        "key": "KM",
+        "patterns": [
+            "km",
+            "comoros"
+        ]
+    },
+    {
+        "currency": "XAF",
+        "capitalCity": "Brazzaville",
+        "diallingCode": "242",
+        "name": "Republic of the Congo",
+        "key": "CG",
+        "patterns": [
+            "cg",
+            "congo"
+        ]
+    },
+    {
+        "currency": "CDF",
+        "capitalCity": "Kinshasa",
+        "diallingCode": "243",
+        "name": "Democratic Republic of the Congo",
+        "key": "CD",
+        "patterns": [
+            "cd",
+            "congo, the democratic republic of the"
+        ]
+    },
+    {
+        "currency": "NZD",
+        "capitalCity": "Avarua",
+        "diallingCode": "682",
+        "name": "Cook Islands",
+        "key": "CK",
+        "patterns": [
+            "ck",
+            "cook islands"
+        ]
+    },
+    {
+        "currency": "CRC",
+        "capitalCity": "San Jose",
+        "diallingCode": "506",
+        "name": "Costa Rica",
+        "key": "CR",
+        "patterns": [
+            "cr",
+            "costa rica"
+        ]
+    },
+    {
+        "currency": "XOF",
+        "capitalCity": "Yamoussoukro",
+        "diallingCode": "225",
+        "name": "Ivory Coast",
+        "key": "CI",
+        "patterns": [
+            "ci",
+            "côte d'ivoire"
+        ]
+    },
+    {
+        "currency": "HRK",
+        "capitalCity": "Zagreb",
+        "diallingCode": "385",
+        "name": "Croatia",
+        "key": "HR",
+        "patterns": [
+            "hr",
+            "croatia"
+        ]
+    },
+    {
+        "currency": "CUP",
+        "capitalCity": "Havana",
+        "diallingCode": "53",
+        "name": "Cuba",
+        "key": "CU",
+        "patterns": [
+            "cu",
+            "cuba"
+        ]
+    },
+    {
+        "currency": "ANG",
+        "capitalCity": " Willemstad",
+        "diallingCode": "599",
+        "name": "Curacao",
+        "key": "CW",
+        "patterns": [
+            "cw",
+            "curaçao"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Nicosia",
+        "diallingCode": "357",
+        "name": "Cyprus",
+        "key": "CY",
+        "patterns": [
+            "cy",
+            "cyprus"
+        ]
+    },
+    {
+        "currency": "CZK",
+        "capitalCity": "Prague",
+        "diallingCode": "420",
+        "name": "Czech Republic",
+        "key": "CZ",
+        "patterns": [
+            "cz",
+            "czech republic",
+            "cesk"
+        ]
+    },
+    {
+        "currency": "DKK",
+        "capitalCity": "Copenhagen",
+        "diallingCode": "45",
+        "name": "Denmark",
+        "key": "DK",
+        "patterns": [
+            "dk",
+            "denmark"
+        ]
+    },
+    {
+        "currency": "DJF",
+        "capitalCity": "Djibouti",
+        "diallingCode": "253",
+        "name": "Djibouti",
+        "key": "DJ",
+        "patterns": [
+            "dj",
+            "djibouti"
+        ]
+    },
+    {
+        "currency": "XCD",
+        "capitalCity": "Roseau",
+        "diallingCode": "+1-767",
+        "name": "Dominica",
+        "key": "DM",
+        "patterns": [
+            "dm",
+            "dominica"
+        ]
+    },
+    {
+        "currency": "DOP",
+        "capitalCity": "Santo Domingo",
+        "diallingCode": "+1-809 and 1-829",
+        "name": "Dominican Republic",
+        "key": "DO",
+        "patterns": [
+            "do",
+            "dominican republic"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Quito",
+        "diallingCode": "593",
+        "name": "Ecuador",
+        "key": "EC",
+        "patterns": [
+            "ec",
+            "ecuador"
+        ]
+    },
+    {
+        "currency": "EGP",
+        "capitalCity": "Cairo",
+        "diallingCode": "20",
+        "name": "Egypt",
+        "key": "EG",
+        "patterns": [
+            "eg",
+            "egypt"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "San Salvador",
+        "diallingCode": "503",
+        "name": "El Salvador",
+        "key": "SV",
+        "patterns": [
+            "sv",
+            "el salvador"
+        ]
+    },
+    {
+        "currency": "XAF",
+        "capitalCity": "Malabo",
+        "diallingCode": "240",
+        "name": "Equatorial Guinea",
+        "key": "GQ",
+        "patterns": [
+            "gq",
+            "equatorial guinea"
+        ]
+    },
+    {
+        "currency": "ERN",
+        "capitalCity": "Asmara",
+        "diallingCode": "291",
+        "name": "Eritrea",
+        "key": "ER",
+        "patterns": [
+            "er",
+            "eritrea"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Tallinn",
+        "diallingCode": "372",
+        "name": "Estonia",
+        "key": "EE",
+        "patterns": [
+            "ee",
+            "estonia"
+        ]
+    },
+    {
+        "currency": "ETB",
+        "capitalCity": "Addis Ababa",
+        "diallingCode": "251",
+        "name": "Ethiopia",
+        "key": "ET",
+        "patterns": [
+            "et",
+            "ethiopia"
+        ]
+    },
+    {
+        "currency": "FKP",
+        "capitalCity": "Stanley",
+        "diallingCode": "500",
+        "name": "Falkland Islands",
+        "key": "FK",
+        "patterns": [
+            "fk",
+            "falkland islands (malvinas)"
+        ]
+    },
+    {
+        "currency": "DKK",
+        "capitalCity": "Torshavn",
+        "diallingCode": "298",
+        "name": "Faroe Islands",
+        "key": "FO",
+        "patterns": [
+            "fo",
+            "faroe islands"
+        ]
+    },
+    {
+        "currency": "FJD",
+        "capitalCity": "Suva",
+        "diallingCode": "679",
+        "name": "Fiji",
+        "key": "FJ",
+        "patterns": [
+            "fj",
+            "fiji"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Helsinki",
+        "diallingCode": "358",
+        "name": "Finland",
+        "key": "FI",
+        "patterns": [
+            "fi",
+            "finland"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Paris",
+        "diallingCode": "33",
+        "name": "France",
+        "key": "FR",
+        "patterns": [
+            "fr",
+            "france"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Cayenne",
+        "diallingCode": "594",
+        "name": "French Guiana",
+        "key": "GF",
+        "patterns": [
+            "gf",
+            "french guiana"
+        ]
+    },
+    {
+        "currency": "XPF",
+        "capitalCity": "Papeete",
+        "diallingCode": "689",
+        "name": "French Polynesia",
+        "key": "PF",
+        "patterns": [
+            "pf",
+            "french polynesia"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Port-aux-Francais",
+        "diallingCode": "",
+        "name": "French Southern Territories",
+        "key": "TF",
+        "patterns": [
+            "tf",
+            "french southern territories"
+        ]
+    },
+    {
+        "currency": "XAF",
+        "capitalCity": "Libreville",
+        "diallingCode": "241",
+        "name": "Gabon",
+        "key": "GA",
+        "patterns": [
+            "ga",
+            "gabon"
+        ]
+    },
+    {
+        "currency": "GMD",
+        "capitalCity": "Banjul",
+        "diallingCode": "220",
+        "name": "Gambia",
+        "key": "GM",
+        "patterns": [
+            "gm",
+            "gambia"
+        ]
+    },
+    {
+        "currency": "GEL",
+        "capitalCity": "Tbilisi",
+        "diallingCode": "995",
+        "name": "Georgia",
+        "key": "GE",
+        "patterns": [
+            "ge",
+            "georgia"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Berlin",
+        "diallingCode": "49",
+        "name": "Germany",
+        "key": "DE",
+        "patterns": [
+            "de",
+            "germany"
+        ]
+    },
+    {
+        "currency": "GHS",
+        "capitalCity": "Accra",
+        "diallingCode": "233",
+        "name": "Ghana",
+        "key": "GH",
+        "patterns": [
+            "gh",
+            "ghana"
+        ]
+    },
+    {
+        "currency": "GIP",
+        "capitalCity": "Gibraltar",
+        "diallingCode": "350",
+        "name": "Gibraltar",
+        "key": "GI",
+        "patterns": [
+            "gi",
+            "gibraltar"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Athens",
+        "diallingCode": "30",
+        "name": "Greece",
+        "key": "GR",
+        "patterns": [
+            "gr",
+            "greece"
+        ]
+    },
+    {
+        "currency": "DKK",
+        "capitalCity": "Nuuk",
+        "diallingCode": "299",
+        "name": "Greenland",
+        "key": "GL",
+        "patterns": [
+            "gl",
+            "greenland"
+        ]
+    },
+    {
+        "currency": "XCD",
+        "capitalCity": "St. George's",
+        "diallingCode": "+1-473",
+        "name": "Grenada",
+        "key": "GD",
+        "patterns": [
+            "gd",
+            "grenada"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Basse-Terre",
+        "diallingCode": "590",
+        "name": "Guadeloupe",
+        "key": "GP",
+        "patterns": [
+            "gp",
+            "guadeloupe"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Hagatna",
+        "diallingCode": "+1-671",
+        "name": "Guam",
+        "key": "GU",
+        "patterns": [
+            "gu",
+            "guam"
+        ]
+    },
+    {
+        "currency": "GTQ",
+        "capitalCity": "Guatemala City",
+        "diallingCode": "502",
+        "name": "Guatemala",
+        "key": "GT",
+        "patterns": [
+            "gt",
+            "guatemala"
+        ]
+    },
+    {
+        "currency": "GBP",
+        "capitalCity": "St Peter Port",
+        "diallingCode": "+44-1481",
+        "name": "Guernsey",
+        "key": "GG",
+        "patterns": [
+            "gg",
+            "guernsey"
+        ]
+    },
+    {
+        "currency": "GNF",
+        "capitalCity": "Conakry",
+        "diallingCode": "224",
+        "name": "Guinea",
+        "key": "GN",
+        "patterns": [
+            "gn",
+            "guinea"
+        ]
+    },
+    {
+        "currency": "XOF",
+        "capitalCity": "Bissau",
+        "diallingCode": "245",
+        "name": "Guinea-Bissau",
+        "key": "GW",
+        "patterns": [
+            "gw",
+            "guinea-bissau"
+        ]
+    },
+    {
+        "currency": "GYD",
+        "capitalCity": "Georgetown",
+        "diallingCode": "592",
+        "name": "Guyana",
+        "key": "GY",
+        "patterns": [
+            "gy",
+            "guyana"
+        ]
+    },
+    {
+        "currency": "HTG",
+        "capitalCity": "Port-au-Prince",
+        "diallingCode": "509",
+        "name": "Haiti",
+        "key": "HT",
+        "patterns": [
+            "ht",
+            "haiti"
+        ]
+    },
+    {
+        "currency": "AUD",
+        "capitalCity": "",
+        "diallingCode": " ",
+        "name": "Heard Island and McDonald Islands",
+        "key": "HM",
+        "patterns": [
+            "hm",
+            "heard island and mcdonald islands"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Vatican City",
+        "diallingCode": "379",
+        "name": "Vatican",
+        "key": "VA",
+        "patterns": [
+            "va",
+            "holy see (vatican city state)"
+        ]
+    },
+    {
+        "currency": "HNL",
+        "capitalCity": "Tegucigalpa",
+        "diallingCode": "504",
+        "name": "Honduras",
+        "key": "HN",
+        "patterns": [
+            "hn",
+            "honduras"
+        ]
+    },
+    {
+        "currency": "HKD",
+        "capitalCity": "Hong Kong",
+        "diallingCode": "852",
+        "name": "Hong Kong",
+        "key": "HK",
+        "patterns": [
+            "hk",
+            "hong kong"
+        ]
+    },
+    {
+        "currency": "HUF",
+        "capitalCity": "Budapest",
+        "diallingCode": "36",
+        "name": "Hungary",
+        "key": "HU",
+        "patterns": [
+            "hu",
+            "hungary"
+        ]
+    },
+    {
+        "currency": "ISK",
+        "capitalCity": "Reykjavik",
+        "diallingCode": "354",
+        "name": "Iceland",
+        "key": "IS",
+        "patterns": [
+            "is",
+            "iceland"
+        ]
+    },
+    {
+        "currency": "INR",
+        "capitalCity": "New Delhi",
+        "diallingCode": "91",
+        "name": "India",
+        "key": "IN",
+        "patterns": [
+            "in",
+            "india"
+        ]
+    },
+    {
+        "currency": "IDR",
+        "capitalCity": "Jakarta",
+        "diallingCode": "62",
+        "name": "Indonesia",
+        "key": "ID",
+        "patterns": [
+            "id",
+            "indonesia"
+        ]
+    },
+    {
+        "currency": "IRR",
+        "capitalCity": "Tehran",
+        "diallingCode": "98",
+        "name": "Iran",
+        "key": "IR",
+        "patterns": [
+            "ir",
+            "iran, islamic republic of"
+        ]
+    },
+    {
+        "currency": "IQD",
+        "capitalCity": "Baghdad",
+        "diallingCode": "964",
+        "name": "Iraq",
+        "key": "IQ",
+        "patterns": [
+            "iq",
+            "iraq"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Dublin",
+        "diallingCode": "353",
+        "name": "Ireland",
+        "key": "IE",
+        "patterns": [
+            "ie",
+            "ireland"
+        ]
+    },
+    {
+        "currency": "GBP",
+        "capitalCity": "Douglas, Isle of Man",
+        "diallingCode": "+44-1624",
+        "name": "Isle of Man",
+        "key": "IM",
+        "patterns": [
+            "im",
+            "isle of man"
+        ]
+    },
+    {
+        "currency": "ILS",
+        "capitalCity": "Jerusalem",
+        "diallingCode": "972",
+        "name": "Israel",
+        "key": "IL",
+        "patterns": [
+            "il",
+            "israel"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Rome",
+        "diallingCode": "39",
+        "name": "Italy",
+        "key": "IT",
+        "patterns": [
+            "it",
+            "italy"
+        ]
+    },
+    {
+        "currency": "JMD",
+        "capitalCity": "Kingston",
+        "diallingCode": "+1-876",
+        "name": "Jamaica",
+        "key": "JM",
+        "patterns": [
+            "jm",
+            "jamaica"
+        ]
+    },
+    {
+        "currency": "JPY",
+        "capitalCity": "Tokyo",
+        "diallingCode": "81",
+        "name": "Japan",
+        "key": "JP",
+        "patterns": [
+            "jp",
+            "japan"
+        ]
+    },
+    {
+        "currency": "GBP",
+        "capitalCity": "Saint Helier",
+        "diallingCode": "+44-1534",
+        "name": "Jersey",
+        "key": "JE",
+        "patterns": [
+            "je",
+            "jersey"
+        ]
+    },
+    {
+        "currency": "JOD",
+        "capitalCity": "Amman",
+        "diallingCode": "962",
+        "name": "Jordan",
+        "key": "JO",
+        "patterns": [
+            "jo",
+            "jordan"
+        ]
+    },
+    {
+        "currency": "KZT",
+        "capitalCity": "Astana",
+        "diallingCode": "7",
+        "name": "Kazakhstan",
+        "key": "KZ",
+        "patterns": [
+            "kz",
+            "kazakhstan"
+        ]
+    },
+    {
+        "currency": "KES",
+        "capitalCity": "Nairobi",
+        "diallingCode": "254",
+        "name": "Kenya",
+        "key": "KE",
+        "patterns": [
+            "ke",
+            "kenya"
+        ]
+    },
+    {
+        "currency": "AUD",
+        "capitalCity": "Tarawa",
+        "diallingCode": "686",
+        "name": "Kiribati",
+        "key": "KI",
+        "patterns": [
+            "ki",
+            "kiribati"
+        ]
+    },
+    {
+        "currency": "KPW",
+        "capitalCity": "Pyongyang",
+        "diallingCode": "850",
+        "name": "North Korea",
+        "key": "KP",
+        "patterns": [
+            "kp",
+            "korea, democratic people's republic of"
+        ]
+    },
+    {
+        "currency": "KRW",
+        "capitalCity": "Seoul",
+        "diallingCode": "82",
+        "name": "South Korea",
+        "key": "KR",
+        "patterns": [
+            "kr",
+            "korea, republic of"
+        ]
+    },
+    {
+        "currency": "KWD",
+        "capitalCity": "Kuwait City",
+        "diallingCode": "965",
+        "name": "Kuwait",
+        "key": "KW",
+        "patterns": [
+            "kw",
+            "kuwait"
+        ]
+    },
+    {
+        "currency": "KGS",
+        "capitalCity": "Bishkek",
+        "diallingCode": "996",
+        "name": "Kyrgyzstan",
+        "key": "KG",
+        "patterns": [
+            "kg",
+            "kyrgyzstan"
+        ]
+    },
+    {
+        "currency": "LAK",
+        "capitalCity": "Vientiane",
+        "diallingCode": "856",
+        "name": "Laos",
+        "key": "LA",
+        "patterns": [
+            "la",
+            "lao people's democratic republic"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Riga",
+        "diallingCode": "371",
+        "name": "Latvia",
+        "key": "LV",
+        "patterns": [
+            "lv",
+            "latvia"
+        ]
+    },
+    {
+        "currency": "LBP",
+        "capitalCity": "Beirut",
+        "diallingCode": "961",
+        "name": "Lebanon",
+        "key": "LB",
+        "patterns": [
+            "lb",
+            "lebanon"
+        ]
+    },
+    {
+        "currency": "LSL",
+        "capitalCity": "Maseru",
+        "diallingCode": "266",
+        "name": "Lesotho",
+        "key": "LS",
+        "patterns": [
+            "ls",
+            "lesotho"
+        ]
+    },
+    {
+        "currency": "LRD",
+        "capitalCity": "Monrovia",
+        "diallingCode": "231",
+        "name": "Liberia",
+        "key": "LR",
+        "patterns": [
+            "lr",
+            "liberia"
+        ]
+    },
+    {
+        "currency": "LYD",
+        "capitalCity": "Tripolis",
+        "diallingCode": "218",
+        "name": "Libya",
+        "key": "LY",
+        "patterns": [
+            "ly",
+            "libya"
+        ]
+    },
+    {
+        "currency": "CHF",
+        "capitalCity": "Vaduz",
+        "diallingCode": "423",
+        "name": "Liechtenstein",
+        "key": "LI",
+        "patterns": [
+            "li",
+            "liechtenstein"
+        ]
+    },
+    {
+        "currency": "LTL",
+        "capitalCity": "Vilnius",
+        "diallingCode": "370",
+        "name": "Lithuania",
+        "key": "LT",
+        "patterns": [
+            "lt",
+            "lithuania"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Luxembourg",
+        "diallingCode": "352",
+        "name": "Luxembourg",
+        "key": "LU",
+        "patterns": [
+            "lu",
+            "luxembourg"
+        ]
+    },
+    {
+        "currency": "MOP",
+        "capitalCity": "Macao",
+        "diallingCode": "853",
+        "name": "Macao",
+        "key": "MO",
+        "patterns": [
+            "mo",
+            "macao"
+        ]
+    },
+    {
+        "currency": "MKD",
+        "capitalCity": "Skopje",
+        "diallingCode": "389",
+        "name": "Macedonia",
+        "key": "MK",
+        "patterns": [
+            "mk",
+            "macedonia, the former yugoslav republic of"
+        ]
+    },
+    {
+        "currency": "MGA",
+        "capitalCity": "Antananarivo",
+        "diallingCode": "261",
+        "name": "Madagascar",
+        "key": "MG",
+        "patterns": [
+            "mg",
+            "madagascar"
+        ]
+    },
+    {
+        "currency": "MWK",
+        "capitalCity": "Lilongwe",
+        "diallingCode": "265",
+        "name": "Malawi",
+        "key": "MW",
+        "patterns": [
+            "mw",
+            "malawi"
+        ]
+    },
+    {
+        "currency": "MYR",
+        "capitalCity": "Kuala Lumpur",
+        "diallingCode": "60",
+        "name": "Malaysia",
+        "key": "MY",
+        "patterns": [
+            "my",
+            "malaysia"
+        ]
+    },
+    {
+        "currency": "MVR",
+        "capitalCity": "Male",
+        "diallingCode": "960",
+        "name": "Maldives",
+        "key": "MV",
+        "patterns": [
+            "mv",
+            "maldives"
+        ]
+    },
+    {
+        "currency": "XOF",
+        "capitalCity": "Bamako",
+        "diallingCode": "223",
+        "name": "Mali",
+        "key": "ML",
+        "patterns": [
+            "ml",
+            "mali"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Valletta",
+        "diallingCode": "356",
+        "name": "Malta",
+        "key": "MT",
+        "patterns": [
+            "mt",
+            "malta"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Majuro",
+        "diallingCode": "692",
+        "name": "Marshall Islands",
+        "key": "MH",
+        "patterns": [
+            "mh",
+            "marshall islands"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Fort-de-France",
+        "diallingCode": "596",
+        "name": "Martinique",
+        "key": "MQ",
+        "patterns": [
+            "mq",
+            "martinique"
+        ]
+    },
+    {
+        "currency": "MRO",
+        "capitalCity": "Nouakchott",
+        "diallingCode": "222",
+        "name": "Mauritania",
+        "key": "MR",
+        "patterns": [
+            "mr",
+            "mauritania"
+        ]
+    },
+    {
+        "currency": "MUR",
+        "capitalCity": "Port Louis",
+        "diallingCode": "230",
+        "name": "Mauritius",
+        "key": "MU",
+        "patterns": [
+            "mu",
+            "mauritius"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Mamoudzou",
+        "diallingCode": "262",
+        "name": "Mayotte",
+        "key": "YT",
+        "patterns": [
+            "yt",
+            "mayotte"
+        ]
+    },
+    {
+        "currency": "MXN",
+        "capitalCity": "Mexico City",
+        "diallingCode": "52",
+        "name": "Mexico",
+        "key": "MX",
+        "patterns": [
+            "mx",
+            "mexico"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Palikir",
+        "diallingCode": "691",
+        "name": "Micronesia",
+        "key": "FM",
+        "patterns": [
+            "fm",
+            "micronesia, federated states of"
+        ]
+    },
+    {
+        "currency": "MDL",
+        "capitalCity": "Chisinau",
+        "diallingCode": "373",
+        "name": "Moldova",
+        "key": "MD",
+        "patterns": [
+            "md",
+            "moldova, republic of"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Monaco",
+        "diallingCode": "377",
+        "name": "Monaco",
+        "key": "MC",
+        "patterns": [
+            "mc",
+            "monaco"
+        ]
+    },
+    {
+        "currency": "MNT",
+        "capitalCity": "Ulan Bator",
+        "diallingCode": "976",
+        "name": "Mongolia",
+        "key": "MN",
+        "patterns": [
+            "mn",
+            "mongolia"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Podgorica",
+        "diallingCode": "382",
+        "name": "Montenegro",
+        "key": "ME",
+        "patterns": [
+            "me",
+            "montenegro"
+        ]
+    },
+    {
+        "currency": "XCD",
+        "capitalCity": "Plymouth",
+        "diallingCode": "+1-664",
+        "name": "Montserrat",
+        "key": "MS",
+        "patterns": [
+            "ms",
+            "montserrat"
+        ]
+    },
+    {
+        "currency": "MAD",
+        "capitalCity": "Rabat",
+        "diallingCode": "212",
+        "name": "Morocco",
+        "key": "MA",
+        "patterns": [
+            "ma",
+            "morocco"
+        ]
+    },
+    {
+        "currency": "MZN",
+        "capitalCity": "Maputo",
+        "diallingCode": "258",
+        "name": "Mozambique",
+        "key": "MZ",
+        "patterns": [
+            "mz",
+            "mozambique"
+        ]
+    },
+    {
+        "currency": "MMK",
+        "capitalCity": "Nay Pyi Taw",
+        "diallingCode": "95",
+        "name": "Myanmar",
+        "key": "MM",
+        "patterns": [
+            "mm",
+            "myanmar"
+        ]
+    },
+    {
+        "currency": "NAD",
+        "capitalCity": "Windhoek",
+        "diallingCode": "264",
+        "name": "Namibia",
+        "key": "NA",
+        "patterns": [
+            "na",
+            "namibia"
+        ]
+    },
+    {
+        "currency": "AUD",
+        "capitalCity": "Yaren",
+        "diallingCode": "674",
+        "name": "Nauru",
+        "key": "NR",
+        "patterns": [
+            "nr",
+            "nauru"
+        ]
+    },
+    {
+        "currency": "NPR",
+        "capitalCity": "Kathmandu",
+        "diallingCode": "977",
+        "name": "Nepal",
+        "key": "NP",
+        "patterns": [
+            "np",
+            "nepal"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Amsterdam",
+        "diallingCode": "31",
+        "name": "Netherlands",
+        "key": "NL",
+        "patterns": [
+            "nl",
+            "netherlands"
+        ]
+    },
+    {
+        "currency": "XPF",
+        "capitalCity": "Noumea",
+        "diallingCode": "687",
+        "name": "New Caledonia",
+        "key": "NC",
+        "patterns": [
+            "nc",
+            "new caledonia"
+        ]
+    },
+    {
+        "currency": "NZD",
+        "capitalCity": "Wellington",
+        "diallingCode": "64",
+        "name": "New Zealand",
+        "key": "NZ",
+        "patterns": [
+            "nz",
+            "new zealand"
+        ]
+    },
+    {
+        "currency": "NIO",
+        "capitalCity": "Managua",
+        "diallingCode": "505",
+        "name": "Nicaragua",
+        "key": "NI",
+        "patterns": [
+            "ni",
+            "nicaragua"
+        ]
+    },
+    {
+        "currency": "XOF",
+        "capitalCity": "Niamey",
+        "diallingCode": "227",
+        "name": "Niger",
+        "key": "NE",
+        "patterns": [
+            "ne",
+            "niger"
+        ]
+    },
+    {
+        "currency": "NGN",
+        "capitalCity": "Abuja",
+        "diallingCode": "234",
+        "name": "Nigeria",
+        "key": "NG",
+        "patterns": [
+            "ng",
+            "nigeria"
+        ]
+    },
+    {
+        "currency": "NZD",
+        "capitalCity": "Alofi",
+        "diallingCode": "683",
+        "name": "Niue",
+        "key": "NU",
+        "patterns": [
+            "nu",
+            "niue"
+        ]
+    },
+    {
+        "currency": "AUD",
+        "capitalCity": "Kingston",
+        "diallingCode": "672",
+        "name": "Norfolk Island",
+        "key": "NF",
+        "patterns": [
+            "nf",
+            "norfolk island"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Saipan",
+        "diallingCode": "+1-670",
+        "name": "Northern Mariana Islands",
+        "key": "MP",
+        "patterns": [
+            "mp",
+            "northern mariana islands"
+        ]
+    },
+    {
+        "currency": "NOK",
+        "capitalCity": "Oslo",
+        "diallingCode": "47",
+        "name": "Norway",
+        "key": "NO",
+        "patterns": [
+            "no",
+            "norway"
+        ]
+    },
+    {
+        "currency": "OMR",
+        "capitalCity": "Muscat",
+        "diallingCode": "968",
+        "name": "Oman",
+        "key": "OM",
+        "patterns": [
+            "om",
+            "oman"
+        ]
+    },
+    {
+        "currency": "PKR",
+        "capitalCity": "Islamabad",
+        "diallingCode": "92",
+        "name": "Pakistan",
+        "key": "PK",
+        "patterns": [
+            "pk",
+            "pakistan"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Melekeok",
+        "diallingCode": "680",
+        "name": "Palau",
+        "key": "PW",
+        "patterns": [
+            "pw",
+            "palau"
+        ]
+    },
+    {
+        "currency": "ILS",
+        "capitalCity": "East Jerusalem",
+        "diallingCode": "970",
+        "name": "Palestinian Territory",
+        "key": "PS",
+        "patterns": [
+            "ps",
+            "palestinian territory, occupied"
+        ]
+    },
+    {
+        "currency": "PAB",
+        "capitalCity": "Panama City",
+        "diallingCode": "507",
+        "name": "Panama",
+        "key": "PA",
+        "patterns": [
+            "pa",
+            "panama"
+        ]
+    },
+    {
+        "currency": "PGK",
+        "capitalCity": "Port Moresby",
+        "diallingCode": "675",
+        "name": "Papua New Guinea",
+        "key": "PG",
+        "patterns": [
+            "pg",
+            "papua new guinea"
+        ]
+    },
+    {
+        "currency": "PYG",
+        "capitalCity": "Asuncion",
+        "diallingCode": "595",
+        "name": "Paraguay",
+        "key": "PY",
+        "patterns": [
+            "py",
+            "paraguay"
+        ]
+    },
+    {
+        "currency": "PEN",
+        "capitalCity": "Lima",
+        "diallingCode": "51",
+        "name": "Peru",
+        "key": "PE",
+        "patterns": [
+            "pe",
+            "peru"
+        ]
+    },
+    {
+        "currency": "PHP",
+        "capitalCity": "Manila",
+        "diallingCode": "63",
+        "name": "Philippines",
+        "key": "PH",
+        "patterns": [
+            "ph",
+            "philippines"
+        ]
+    },
+    {
+        "currency": "NZD",
+        "capitalCity": "Adamstown",
+        "diallingCode": "870",
+        "name": "Pitcairn",
+        "key": "PN",
+        "patterns": [
+            "pn",
+            "pitcairn"
+        ]
+    },
+    {
+        "currency": "PLN",
+        "capitalCity": "Warsaw",
+        "diallingCode": "48",
+        "name": "Poland",
+        "key": "PL",
+        "patterns": [
+            "pl",
+            "poland"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Lisbon",
+        "diallingCode": "351",
+        "name": "Portugal",
+        "key": "PT",
+        "patterns": [
+            "pt",
+            "portugal"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "San Juan",
+        "diallingCode": "+1-787 and 1-939",
+        "name": "Puerto Rico",
+        "key": "PR",
+        "patterns": [
+            "pr",
+            "puerto rico"
+        ]
+    },
+    {
+        "currency": "QAR",
+        "capitalCity": "Doha",
+        "diallingCode": "974",
+        "name": "Qatar",
+        "key": "QA",
+        "patterns": [
+            "qa",
+            "qatar"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Saint-Denis",
+        "diallingCode": "262",
+        "name": "Reunion",
+        "key": "RE",
+        "patterns": [
+            "re",
+            "réunion"
+        ]
+    },
+    {
+        "currency": "RON",
+        "capitalCity": "Bucharest",
+        "diallingCode": "40",
+        "name": "Romania",
+        "key": "RO",
+        "patterns": [
+            "ro",
+            "romania"
+        ]
+    },
+    {
+        "currency": "RUB",
+        "capitalCity": "Moscow",
+        "diallingCode": "7",
+        "name": "Russia",
+        "key": "RU",
+        "patterns": [
+            "ru",
+            "russian federation",
+            "russia",
+            "rusk"
+        ]
+    },
+    {
+        "currency": "RWF",
+        "capitalCity": "Kigali",
+        "diallingCode": "250",
+        "name": "Rwanda",
+        "key": "RW",
+        "patterns": [
+            "rw",
+            "rwanda"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Gustavia",
+        "diallingCode": "590",
+        "name": "Saint Barthelemy",
+        "key": "BL",
+        "patterns": [
+            "bl",
+            "saint barthélemy"
+        ]
+    },
+    {
+        "currency": "SHP",
+        "capitalCity": "Jamestown",
+        "diallingCode": "290",
+        "name": "Saint Helena",
+        "key": "SH",
+        "patterns": [
+            "sh",
+            "saint helena, ascension and tristan da cunha"
+        ]
+    },
+    {
+        "currency": "XCD",
+        "capitalCity": "Basseterre",
+        "diallingCode": "+1-869",
+        "name": "Saint Kitts and Nevis",
+        "key": "KN",
+        "patterns": [
+            "kn",
+            "saint kitts and nevis"
+        ]
+    },
+    {
+        "currency": "XCD",
+        "capitalCity": "Castries",
+        "diallingCode": "+1-758",
+        "name": "Saint Lucia",
+        "key": "LC",
+        "patterns": [
+            "lc",
+            "saint lucia"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Marigot",
+        "diallingCode": "590",
+        "name": "Saint Martin",
+        "key": "MF",
+        "patterns": [
+            "mf",
+            "saint martin (french part)"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Saint-Pierre",
+        "diallingCode": "508",
+        "name": "Saint Pierre and Miquelon",
+        "key": "PM",
+        "patterns": [
+            "pm",
+            "saint pierre and miquelon"
+        ]
+    },
+    {
+        "currency": "XCD",
+        "capitalCity": "Kingstown",
+        "diallingCode": "+1-784",
+        "name": "Saint Vincent and the Grenadines",
+        "key": "VC",
+        "patterns": [
+            "vc",
+            "saint vincent and the grenadines"
+        ]
+    },
+    {
+        "currency": "WST",
+        "capitalCity": "Apia",
+        "diallingCode": "685",
+        "name": "Samoa",
+        "key": "WS",
+        "patterns": [
+            "ws",
+            "samoa"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "San Marino",
+        "diallingCode": "378",
+        "name": "San Marino",
+        "key": "SM",
+        "patterns": [
+            "sm",
+            "san marino"
+        ]
+    },
+    {
+        "currency": "STD",
+        "capitalCity": "Sao Tome",
+        "diallingCode": "239",
+        "name": "Sao Tome and Principe",
+        "key": "ST",
+        "patterns": [
+            "st",
+            "sao tome and principe"
+        ]
+    },
+    {
+        "currency": "SAR",
+        "capitalCity": "Riyadh",
+        "diallingCode": "966",
+        "name": "Saudi Arabia",
+        "key": "SA",
+        "patterns": [
+            "sa",
+            "saudi arabia"
+        ]
+    },
+    {
+        "currency": "XOF",
+        "capitalCity": "Dakar",
+        "diallingCode": "221",
+        "name": "Senegal",
+        "key": "SN",
+        "patterns": [
+            "sn",
+            "senegal"
+        ]
+    },
+    {
+        "currency": "RSD",
+        "capitalCity": "Belgrade",
+        "diallingCode": "381",
+        "name": "Serbia",
+        "key": "RS",
+        "patterns": [
+            "rs",
+            "serbia"
+        ]
+    },
+    {
+        "currency": "SCR",
+        "capitalCity": "Victoria",
+        "diallingCode": "248",
+        "name": "Seychelles",
+        "key": "SC",
+        "patterns": [
+            "sc",
+            "seychelles"
+        ]
+    },
+    {
+        "currency": "SLL",
+        "capitalCity": "Freetown",
+        "diallingCode": "232",
+        "name": "Sierra Leone",
+        "key": "SL",
+        "patterns": [
+            "sl",
+            "sierra leone"
+        ]
+    },
+    {
+        "currency": "SGD",
+        "capitalCity": "Singapur",
+        "diallingCode": "65",
+        "name": "Singapore",
+        "key": "SG",
+        "patterns": [
+            "sg",
+            "singapore"
+        ]
+    },
+    {
+        "currency": "ANG",
+        "capitalCity": "Philipsburg",
+        "diallingCode": "599",
+        "name": "Sint Maarten",
+        "key": "SX",
+        "patterns": [
+            "sx",
+            "sint maarten (dutch part)"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Bratislava",
+        "diallingCode": "421",
+        "name": "Slovakia",
+        "key": "SK",
+        "patterns": [
+            "sk",
+            "slovakia",
+            "slovensk"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Ljubljana",
+        "diallingCode": "386",
+        "name": "Slovenia",
+        "key": "SI",
+        "patterns": [
+            "si",
+            "slovenia"
+        ]
+    },
+    {
+        "currency": "SBD",
+        "capitalCity": "Honiara",
+        "diallingCode": "677",
+        "name": "Solomon Islands",
+        "key": "SB",
+        "patterns": [
+            "sb",
+            "solomon islands"
+        ]
+    },
+    {
+        "currency": "SOS",
+        "capitalCity": "Mogadishu",
+        "diallingCode": "252",
+        "name": "Somalia",
+        "key": "SO",
+        "patterns": [
+            "so",
+            "somalia"
+        ]
+    },
+    {
+        "currency": "ZAR",
+        "capitalCity": "Pretoria",
+        "diallingCode": "27",
+        "name": "South Africa",
+        "key": "ZA",
+        "patterns": [
+            "za",
+            "south africa"
+        ]
+    },
+    {
+        "currency": "GBP",
+        "capitalCity": "Grytviken",
+        "diallingCode": "",
+        "name": "South Georgia and the South Sandwich Islands",
+        "key": "GS",
+        "patterns": [
+            "gs",
+            "south georgia and the south sandwich islands"
+        ]
+    },
+    {
+        "currency": "SSP",
+        "capitalCity": "Juba",
+        "diallingCode": "211",
+        "name": "South Sudan",
+        "key": "SS",
+        "patterns": [
+            "ss",
+            "south sudan"
+        ]
+    },
+    {
+        "currency": "EUR",
+        "capitalCity": "Madrid",
+        "diallingCode": "34",
+        "name": "Spain",
+        "key": "ES",
+        "patterns": [
+            "es",
+            "spain"
+        ]
+    },
+    {
+        "currency": "LKR",
+        "capitalCity": "Colombo",
+        "diallingCode": "94",
+        "name": "Sri Lanka",
+        "key": "LK",
+        "patterns": [
+            "lk",
+            "sri lanka"
+        ]
+    },
+    {
+        "currency": "SDG",
+        "capitalCity": "Khartoum",
+        "diallingCode": "249",
+        "name": "Sudan",
+        "key": "SD",
+        "patterns": [
+            "sd",
+            "sudan"
+        ]
+    },
+    {
+        "currency": "SRD",
+        "capitalCity": "Paramaribo",
+        "diallingCode": "597",
+        "name": "Suriname",
+        "key": "SR",
+        "patterns": [
+            "sr",
+            "suriname"
+        ]
+    },
+    {
+        "currency": "NOK",
+        "capitalCity": "Longyearbyen",
+        "diallingCode": "47",
+        "name": "Svalbard and Jan Mayen",
+        "key": "SJ",
+        "patterns": [
+            "sj",
+            "svalbard and jan mayen"
+        ]
+    },
+    {
+        "currency": "SZL",
+        "capitalCity": "Mbabane",
+        "diallingCode": "268",
+        "name": "Swaziland",
+        "key": "SZ",
+        "patterns": [
+            "sz",
+            "swaziland"
+        ]
+    },
+    {
+        "currency": "SEK",
+        "capitalCity": "Stockholm",
+        "diallingCode": "46",
+        "name": "Sweden",
+        "key": "SE",
+        "patterns": [
+            "se",
+            "sweden"
+        ]
+    },
+    {
+        "currency": "CHF",
+        "capitalCity": "Berne",
+        "diallingCode": "41",
+        "name": "Switzerland",
+        "key": "CH",
+        "patterns": [
+            "ch",
+            "switzerland"
+        ]
+    },
+    {
+        "currency": "SYP",
+        "capitalCity": "Damascus",
+        "diallingCode": "963",
+        "name": "Syria",
+        "key": "SY",
+        "patterns": [
+            "sy",
+            "syrian arab republic"
+        ]
+    },
+    {
+        "currency": "TWD",
+        "capitalCity": "Taipei",
+        "diallingCode": "886",
+        "name": "Taiwan",
+        "key": "TW",
+        "patterns": [
+            "tw",
+            "taiwan, province of china"
+        ]
+    },
+    {
+        "currency": "TJS",
+        "capitalCity": "Dushanbe",
+        "diallingCode": "992",
+        "name": "Tajikistan",
+        "key": "TJ",
+        "patterns": [
+            "tj",
+            "tajikistan"
+        ]
+    },
+    {
+        "currency": "TZS",
+        "capitalCity": "Dodoma",
+        "diallingCode": "255",
+        "name": "Tanzania",
+        "key": "TZ",
+        "patterns": [
+            "tz",
+            "tanzania, united republic of"
+        ]
+    },
+    {
+        "currency": "THB",
+        "capitalCity": "Bangkok",
+        "diallingCode": "66",
+        "name": "Thailand",
+        "key": "TH",
+        "patterns": [
+            "th",
+            "thailand"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Dili",
+        "diallingCode": "670",
+        "name": "East Timor",
+        "key": "TL",
+        "patterns": [
+            "tl",
+            "timor-leste"
+        ]
+    },
+    {
+        "currency": "XOF",
+        "capitalCity": "Lome",
+        "diallingCode": "228",
+        "name": "Togo",
+        "key": "TG",
+        "patterns": [
+            "tg",
+            "togo"
+        ]
+    },
+    {
+        "currency": "NZD",
+        "capitalCity": "",
+        "diallingCode": "690",
+        "name": "Tokelau",
+        "key": "TK",
+        "patterns": [
+            "tk",
+            "tokelau"
+        ]
+    },
+    {
+        "currency": "TOP",
+        "capitalCity": "Nuku'alofa",
+        "diallingCode": "676",
+        "name": "Tonga",
+        "key": "TO",
+        "patterns": [
+            "to",
+            "tonga"
+        ]
+    },
+    {
+        "currency": "TTD",
+        "capitalCity": "Port of Spain",
+        "diallingCode": "+1-868",
+        "name": "Trinidad and Tobago",
+        "key": "TT",
+        "patterns": [
+            "tt",
+            "trinidad and tobago"
+        ]
+    },
+    {
+        "currency": "TND",
+        "capitalCity": "Tunis",
+        "diallingCode": "216",
+        "name": "Tunisia",
+        "key": "TN",
+        "patterns": [
+            "tn",
+            "tunisia"
+        ]
+    },
+    {
+        "currency": "TRY",
+        "capitalCity": "Ankara",
+        "diallingCode": "90",
+        "name": "Turkey",
+        "key": "TR",
+        "patterns": [
+            "tr",
+            "turkey"
+        ]
+    },
+    {
+        "currency": "TMT",
+        "capitalCity": "Ashgabat",
+        "diallingCode": "993",
+        "name": "Turkmenistan",
+        "key": "TM",
+        "patterns": [
+            "tm",
+            "turkmenistan"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Cockburn Town",
+        "diallingCode": "+1-649",
+        "name": "Turks and Caicos Islands",
+        "key": "TC",
+        "patterns": [
+            "tc",
+            "turks and caicos islands"
+        ]
+    },
+    {
+        "currency": "AUD",
+        "capitalCity": "Funafuti",
+        "diallingCode": "688",
+        "name": "Tuvalu",
+        "key": "TV",
+        "patterns": [
+            "tv",
+            "tuvalu"
+        ]
+    },
+    {
+        "currency": "UGX",
+        "capitalCity": "Kampala",
+        "diallingCode": "256",
+        "name": "Uganda",
+        "key": "UG",
+        "patterns": [
+            "ug",
+            "uganda"
+        ]
+    },
+    {
+        "currency": "UAH",
+        "capitalCity": "Kiev",
+        "diallingCode": "380",
+        "name": "Ukraine",
+        "key": "UA",
+        "patterns": [
+            "ua",
+            "ukraine"
+        ]
+    },
+    {
+        "currency": "AED",
+        "capitalCity": "Abu Dhabi",
+        "diallingCode": "971",
+        "name": "United Arab Emirates",
+        "key": "AE",
+        "patterns": [
+            "ae",
+            "united arab emirates"
+        ]
+    },
+    {
+        "currency": "GBP",
+        "capitalCity": "London",
+        "diallingCode": "44",
+        "name": "United Kingdom",
+        "key": "GB",
+        "patterns": [
+            "gb",
+            "united kingdom",
+            "velka britani"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Washington",
+        "diallingCode": "1",
+        "name": "United States",
+        "key": "US",
+        "patterns": [
+            "us",
+            "united states",
+            "spojene staty americke",
+            "usa"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "",
+        "diallingCode": "1",
+        "name": "United States Minor Outlying Islands",
+        "key": "UM",
+        "patterns": [
+            "um",
+            "united states minor outlying islands"
+        ]
+    },
+    {
+        "currency": "UYU",
+        "capitalCity": "Montevideo",
+        "diallingCode": "598",
+        "name": "Uruguay",
+        "key": "UY",
+        "patterns": [
+            "uy",
+            "uruguay"
+        ]
+    },
+    {
+        "currency": "UZS",
+        "capitalCity": "Tashkent",
+        "diallingCode": "998",
+        "name": "Uzbekistan",
+        "key": "UZ",
+        "patterns": [
+            "uz",
+            "uzbekistan"
+        ]
+    },
+    {
+        "currency": "VUV",
+        "capitalCity": "Port Vila",
+        "diallingCode": "678",
+        "name": "Vanuatu",
+        "key": "VU",
+        "patterns": [
+            "vu",
+            "vanuatu"
+        ]
+    },
+    {
+        "currency": "VEF",
+        "capitalCity": "Caracas",
+        "diallingCode": "58",
+        "name": "Venezuela",
+        "key": "VE",
+        "patterns": [
+            "ve",
+            "venezuela, bolivarian republic of"
+        ]
+    },
+    {
+        "currency": "VND",
+        "capitalCity": "Hanoi",
+        "diallingCode": "84",
+        "name": "Vietnam",
+        "key": "VN",
+        "patterns": [
+            "vn",
+            "viet nam"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Road Town",
+        "diallingCode": "+1-284",
+        "name": "British Virgin Islands",
+        "key": "VG",
+        "patterns": [
+            "vg",
+            "virgin islands, british"
+        ]
+    },
+    {
+        "currency": "USD",
+        "capitalCity": "Charlotte Amalie",
+        "diallingCode": "+1-340",
+        "name": "U.S. Virgin Islands",
+        "key": "VI",
+        "patterns": [
+            "vi",
+            "virgin islands, u.s."
+        ]
+    },
+    {
+        "currency": "XPF",
+        "capitalCity": "Mata Utu",
+        "diallingCode": "681",
+        "name": "Wallis and Futuna",
+        "key": "WF",
+        "patterns": [
+            "wf",
+            "wallis and futuna"
+        ]
+    },
+    {
+        "currency": "MAD",
+        "capitalCity": "El-Aaiun",
+        "diallingCode": "212",
+        "name": "Western Sahara",
+        "key": "EH",
+        "patterns": [
+            "eh",
+            "western sahara"
+        ]
+    },
+    {
+        "currency": "YER",
+        "capitalCity": "Sanaa",
+        "diallingCode": "967",
+        "name": "Yemen",
+        "key": "YE",
+        "patterns": [
+            "ye",
+            "yemen"
+        ]
+    },
+    {
+        "currency": "ZMK",
+        "capitalCity": "Lusaka",
+        "diallingCode": "260",
+        "name": "Zambia",
+        "key": "ZM",
+        "patterns": [
+            "zm",
+            "zambia"
+        ]
+    },
+    {
+        "currency": "ZWL",
+        "capitalCity": "Harare",
+        "diallingCode": "263",
+        "name": "Zimbabwe",
+        "key": "ZW",
+        "patterns": [
+            "zw",
+            "zimbabwe"
+        ]
+    }
+]
