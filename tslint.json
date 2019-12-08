@@ -85,8 +85,7 @@
         "no-empty": true,
         "jsdoc-format": true,
         "no-unnecessary-initializer": true,
-        // TODO: too many errors
-        "no-redundant-jsdoc": false,
+        "no-redundant-jsdoc": true,
         "max-line-length": [
             true,
             190
