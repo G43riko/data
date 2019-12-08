@@ -147,7 +147,18 @@
         "no-return-undefined": true,
         "no-static-this": true,
         "no-unnecessary-else": true,
-        "object-shorthand-properties-first": true
+        "object-shorthand-properties-first": true,"interface-over-type-literal": true,
+        "label-position": true,
+        "no-debugger": true,
+        "no-console": [
+          true,
+          "debug",
+          "info",
+          "time",
+          "timeEnd",
+          "trace"
+        ],
+        "typeof-compare": true
     },
     "rulesDirectory": [
         "tslint-consistent-codestyle"
