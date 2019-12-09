@@ -124,7 +124,14 @@
             true,
             500
         ],
-        "align": true,
+        "align": [
+            true,
+            "arguments",
+            "elements",
+            "members",
+            "parameters",
+            "statements"
+        ],
         "arrow-parens": true,
         "triple-equals": true,
         "no-unnecessary-type-assertion": true,
