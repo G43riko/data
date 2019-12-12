@@ -61,7 +61,8 @@
         "member-access": true,
         "indent": [
             true,
-            "spaces"
+            "spaces",
+            4
         ],
         "prefer-const": true,
         "semicolon": [
