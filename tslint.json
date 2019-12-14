@@ -107,9 +107,11 @@
         "no-bitwise": false,
         "no-conditional-assignment": true,
         "number-literal-format": true,
+        "no-inferrable-types": true,
         "ordered-imports": true,
         "no-angle-bracket-type-assertion": true,
         "one-variable-per-declaration": true,
+        "callable-types": true,
         "no-duplicate-switch-case": true,
         "max-classes-per-file": [
             true,
