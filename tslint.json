@@ -102,6 +102,10 @@
         "no-construct": true,
         "no-string-literal": true,
         "no-switch-case-fall-through": true,
+        "variable-name": [
+            true,
+            "allow-leading-underscore"
+        ],
         "no-use-before-declare": true,
         "unified-signatures": true,
         "no-bitwise": false,
@@ -155,7 +159,8 @@
         "no-return-undefined": true,
         "no-static-this": true,
         "no-unnecessary-else": true,
-        "object-shorthand-properties-first": true,"interface-over-type-literal": true,
+        "object-shorthand-properties-first": true,
+        "interface-over-type-literal": true,
         "label-position": true,
         "no-debugger": true,
         "no-console": [
