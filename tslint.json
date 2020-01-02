@@ -58,7 +58,6 @@
             true,
             "check-space"
         ],
-        "member-access": true,
         "indent": [
             true,
             "spaces",
@@ -171,7 +170,19 @@
           "timeEnd",
           "trace"
         ],
-        "typeof-compare": true
+        "typeof-compare": true,
+        "arrow-return-shorthand": true,
+        "deprecation": true,
+        "bool-param-default": true,
+        "member-access": [
+            true,
+            "check-accessor",
+            "check-constructor",
+            "check-parameter-property"
+        ],
+        "no-dupicate-string": true,
+        "no-identical-functions": true,
+        "no-identical-conditions": true
     },
     "rulesDirectory": [
         "tslint-consistent-codestyle"
