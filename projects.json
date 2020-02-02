@@ -1,73 +1,105 @@
-  {
-            team: "home",
-            name: "ShareDesk",
-            demo: "http://share-desk.herokuapp.com/",
-            sources: "https://github.com/G43riko/ShareDesk",
-            technologies: ["NodeJS", "Webpack", "Typescript", "SocketIO"]
+[
+    {
+        "team": "home",
+        "name": "ShareDesk",
+        "demo": "http://share-desk.herokuapp.com/",
+        "sources": "https://github.com/G43riko/ShareDesk",
+        "technologies": [
+            "NodeJS",
+            "Webpack",
+            "Typescript",
+            "SocketIO"
+        ]
+    },
+    {
+        "team": "fiit",
+        "name": {
+            "sk": "Online interaktívna plocha",
+            "en": "Online interactive desktop"
         },
-        {
-            team: "fiit",
-            name: {
-                sk: "Online interaktívna plocha",
-                en: "Online interactive desktop"
-            },
-            sources: "https://github.com/G43riko/online-interactive-desktop",
-            documentation: "https://opac.crzp.sk/?fn=detailBiblioForm&sid=82D5162064037F62A39D80F7A2EE&seo=CRZP-detail-kniha",
-            technologies: ["NodeJS", "Grunt", "SocketIO", "Redis"]
+        "sources": "https://github.com/G43riko/online-interactive-desktop",
+        "documentation": "https://opac.crzp.sk/?fn=detailBiblioForm&sid=82D5162064037F62A39D80F7A2EE&seo=CRZP-detail-kniha",
+        "technologies": [
+            "NodeJS",
+            "Grunt",
+            "SocketIO",
+            "Redis"
+        ]
+    },
+    {
+        "team": "fiit",
+        "name": {
+            "sk": "Kognitívne testovanie používatelov",
+            "en": "Cognitive testing of users"
         },
-        {
-            team: "fiit",
-            name: {
-                sk: "Kognitívne testovanie používatelov",
-                en: "Cognitive testing of users"
-            },
-            demo: "http://tests-playground.herokuapp.com",
-            sources: "https://github.com/G43riko/DP",
-            documentation: "https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6067EBA35451301886CDD0D9AAB&seo=CRZP-detail-kniha",
-            technologies: ["NodeJS", "Grunt", "MongoDB", "Python"]
+        "demo": "http://tests-playground.herokuapp.com",
+        "sources": "https://github.com/G43riko/DP",
+        "documentation": "https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6067EBA35451301886CDD0D9AAB&seo=CRZP-detail-kniha",
+        "technologies": [
+            "NodeJS",
+            "Grunt",
+            "MongoDB",
+            "Python"
+        ]
+    },
+    {
+        "team": "fiit",
+        "name": {
+            "sk": "Importér verejných datasetov",
+            "en": "Importer of public datasets"
         },
-        {
-            team: "fiit",
-            name: {
-                sk: "Importér verejných datasetov",
-                en: "Importer of public datasets",
-            },
-            documentation: "http://labss2.fiit.stuba.sk/TeamProject/2017/team14iss-it/",
-            technologies: ["Angular", "Spring", "Postgres", "Elastic Search"]
-        },
-        {
-            team: "home",
-            name: "@g43/table",
-            sources: "https://github.com/G43riko/GToolsNG",
-            documentation: "https://g43riko.github.io/GToolsNG/documentation/project/table/",
-            demo: "https://g43riko.github.io/GToolsNG//#/table/overview",
-            technologies: ["Angular"]
-        },
-        {
-            team: "home",
-            name: "@g43/common",
-            sources: "https://github.com/G43riko/GToolsNG",
-            documentation: "https://g43riko.github.io/GToolsNG/documentation/project/common/",
-            technologies: ["Angular"]
-        },
-        {
-            team: "home",
-            name: "@g43/menu",
-            sources: "https://github.com/G43riko/GToolsNG",
-            documentation: "https://g43riko.github.io/GToolsNG/documentation/project/menu/",
-            demo: "https://g43riko.github.io/GToolsNG/#/menu/overview",
-            technologies: ["Angular"]
-        },
-        {
-            team: "home",
-            name: "GTools",
-            sources: "https://github.com/G43riko/GTools",
-            documentation: "https://g43riko.github.io/GTools/",
-            technologies: ["Typescript"]
-        },
-        {
-            team: "home",
-            name: "Express annotator",
-            sources: "https://github.com/G43riko/Express-annotator",
-            technologies: ["Typescript"]
-        }
+        "documentation": "http://labss2.fiit.stuba.sk/TeamProject/2017/team14iss-it/",
+        "technologies": [
+            "Angular",
+            "Spring",
+            "Postgres",
+            "Elastic Search"
+        ]
+    },
+    {
+        "team": "home",
+        "name": "@g43/table",
+        "sources": "https://github.com/G43riko/GToolsNG",
+        "documentation": "https://g43riko.github.io/GToolsNG/documentation/project/table/",
+        "demo": "https://g43riko.github.io/GToolsNG//#/table/overview",
+        "technologies": [
+            "Angular"
+        ]
+    },
+    {
+        "team": "home",
+        "name": "@g43/common",
+        "sources": "https://github.com/G43riko/GToolsNG",
+        "documentation": "https://g43riko.github.io/GToolsNG/documentation/project/common/",
+        "technologies": [
+            "Angular"
+        ]
+    },
+    {
+        "team": "home",
+        "name": "@g43/menu",
+        "sources": "https://github.com/G43riko/GToolsNG",
+        "documentation": "https://g43riko.github.io/GToolsNG/documentation/project/menu/",
+        "demo": "https://g43riko.github.io/GToolsNG/#/menu/overview",
+        "technologies": [
+            "Angular"
+        ]
+    },
+    {
+        "team": "home",
+        "name": "GTools",
+        "sources": "https://github.com/G43riko/GTools",
+        "documentation": "https://g43riko.github.io/GTools/",
+        "technologies": [
+            "Typescript"
+        ]
+    },
+    {
+        "team": "home",
+        "name": "Express annotator",
+        "sources": "https://github.com/G43riko/Express-annotator",
+        "technologies": [
+            "Typescript"
+        ]
+    }
+]
