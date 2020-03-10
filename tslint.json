@@ -43,6 +43,12 @@
                 }
             }
         ],
+
+        "import-blacklist": [
+            true,
+            "rxjs/Rx"
+        ],
+        "directive-class-suffix": true,
         // TODO: vyžaduje všade tsdoc
         "cyclomatic-complexity": [
             true,
@@ -73,7 +79,6 @@
             true,
             "array"
         ],
-        "no-inferrable-types": true,
         "trailing-comma": true,
         "newline-before-return": true,
         "newline-per-chained-call": false,
@@ -163,17 +168,20 @@
         "label-position": true,
         "no-debugger": true,
         "no-console": [
-          true,
-          "debug",
-          "info",
-          "time",
-          "timeEnd",
-          "trace"
+            true,
+            "debug",
+            "info",
+            "time",
+            "timeEnd",
+            "trace"
         ],
         "typeof-compare": true,
         "arrow-return-shorthand": true,
         "deprecation": true,
         "bool-param-default": true,
+        "no-non-null-assertion": true,
+        "no-var-requires": false,
+//        "no-consecutive-blank-lines": false,
         "member-access": [
             true,
             "check-accessor",
