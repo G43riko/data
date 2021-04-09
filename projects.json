@@ -1,6 +1,18 @@
 [
     {
         "team": "home",
+        "name": "Real estates",
+        "demo": "https://g43-real-estates.herokuapp.com",
+        "source": "https://github.com/G43riko/real-estate-scraper",
+        "technologies": [
+            "NodeJS",
+            "ExpressJS",
+            "MongoDB",
+            "VueJS",
+        ]
+    },
+    {
+        "team": "home",
         "name": "ShareDesk",
         "demo": "http://share-desk.herokuapp.com/",
         "sources": "https://github.com/G43riko/ShareDesk",
