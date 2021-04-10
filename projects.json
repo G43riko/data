@@ -46,6 +46,7 @@
         },
         "demo": "http://tests-playground.herokuapp.com",
         "sources": "https://github.com/G43riko/DP",
+        "demo": "https://tests-playground.herokuapp.com/?externalId=homepage-link",
         "documentation": "https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6067EBA35451301886CDD0D9AAB&seo=CRZP-detail-kniha",
         "technologies": [
             "NodeJS",
